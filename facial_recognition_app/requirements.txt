@@ -1,0 +1,8 @@
+onnxruntime-gpu
+opencv-contrib-python
+faiss-gpu
+h5py
+tqdm
+numpy
+pillow
+PyQt5
