@@ -1,6 +1,6 @@
 onnxruntime-gpu
 opencv-contrib-python
-faiss-gpu
+faiss-cpu
 h5py
 tqdm
 numpy

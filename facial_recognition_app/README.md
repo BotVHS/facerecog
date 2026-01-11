@@ -44,7 +44,15 @@ source venv/bin/activate
 ```
 
 ### 3. Instal·lar dependencies
+
+**⚠️ USUARIS DE WINDOWS**: Consulta [INSTALL_WINDOWS.md](INSTALL_WINDOWS.md) per instruccions específiques de Windows (FAISS GPU requereix Conda).
+
 ```bash
+# Linux/Mac
+pip install -r requirements.txt
+
+# Windows: utilitzar faiss-cpu (ja configurat a requirements.txt)
+# O seguir INSTALL_WINDOWS.md per FAISS GPU amb conda
 pip install -r requirements.txt
 ```
 
